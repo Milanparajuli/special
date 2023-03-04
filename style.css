@@ -34,7 +34,13 @@ body{
 		top:0%;
 	}
 }
-.balloon:nth-child(2){
+.balloon:nth-child(1){
+	left: 30%;
+	top:55%;
+	background-color: red;
+	animation-duration: 2s;
+}
+balloon:nth-child(2){
 	left: 30%;
 	top:55%;
 	background-color: red;
