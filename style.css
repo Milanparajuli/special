@@ -35,8 +35,8 @@ body{
 	}
 }
 .balloon:nth-child(1){
-	left: 30%;
-	top:55%;
+	left: 15%;
+	top:65%;
 	background-color: red;
 	animation-duration: 2s;
 }
